@@ -1,0 +1,23 @@
+en:
+  user_sessions:
+    new:
+      title: 'Login'
+      sign_up: 'Sign in'
+
+  flash:
+    notice:
+      signed_in: 'Login realizado com sucesso.'
+
+  confirmations:
+    success: 'Email confirmed, tahnks!'
+  
+  signup:
+    confirm_email:
+      subject: 'Domain.net - Email confirmation'
+      title: 'Welcome to Domain.net!'
+      body: |
+        %{full_name}, welcome to Domain.net.
+        Write some descriptions here ...
+
+      confirm_link_html: 'To verify your email and activate your account, click the link: %{link}'
+      thanks_html: 'Thanks for signing up for %{link}.'
